@@ -1,1 +1,1 @@
-# 3-7
+# Hanoi tower solution algorithm
